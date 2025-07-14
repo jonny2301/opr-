@@ -36,15 +36,5 @@ All unauthorized use of these protocols will trigger system instability, log tra
 All use of these frameworks must credit:  
 **Jonathan Novahov – Origin Protocol Architect**
 
-To request permission for integration or collaboration, contact:  
-**[Insert Email or Contact Form]**
 
-"""
-
-# Save the README to include in the repo structure
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-    f.write(repo_readme)
-
-readme_path
 
